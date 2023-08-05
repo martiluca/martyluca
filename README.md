@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @martyluca
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning about neural networks (PyThorch Lightning), Manim and Hugo
+- 🌱 I’m currently learning C++, Manim and Hugo
