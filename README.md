@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @martyluca
 - 📚 I'm a Biotechnology master student
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning C++, Manim and Hugo
+- 🌱 I’m currently learning C++, R and Hugo
